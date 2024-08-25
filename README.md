@@ -1,6 +1,6 @@
 # About
 
-First try. This is a crowd soursing up.
+First try. This is a crowd soursing app.
 
 # Getting started
 
